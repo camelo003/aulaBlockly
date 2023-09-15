@@ -1,0 +1,141 @@
+rapidamente:
+
+linhas precedidas por um apenas * são o títulos do respectivo slide;
+linhas precididas por dois o mais *'s são tópicos do slide;
+- indicam conteúdo do slide em questão
+textos entre [ e ] são comentários gerais que /não/ aparecerão na apresentação
+
+* O que são linguagens de programação?
+
+  - são formas de 'falar' pro computador o que ele deve fazer.
+
+* Como dividir linguagens de programação?
+
+** Compiladas x Interpretadas
+** Funcionais x Orientadas a Objetos
+** Tipagem Forte x Tipagem Fraca
+** Imperativas x Declarativas
+
+[apenas pra mostrar que existem muitas formas de classificar linguagens e que não se excluem entre si. assim como seria possivel dividir um grupo de pessoa entre mais novos x mais velhos que 30 anos, que sabem x que não sabem jogar xadrez...]
+
+* Linguagens textuais x linguagens visuais
+
+  [[./1a_linguagemTextual.png]]
+
+  [[./1b_linguagemVisualXod.png]]
+
+* Linguagens textuais
+
+  - C, C++
+  - Python
+  - Javascript
+
+* Linguagens textuais
+
+  - Lógica definidas através de texto
+  - Lógica + sintaxe
+
+* Puredata
+
+  [[./2_puredata.png]]
+
+* Houdini
+
+  [[./3_houdini.png]]
+
+* Cables
+
+  [[./4_cables.gif]]
+
+* Blueprint
+
+  [[./5_unrealBlueprint.png]]
+
+* Linguagens visuais
+
+  - Lógica definida pelo fluxo
+  - "Sintaxe" mais flexivel
+
+* Cuidado com a formatação
+
+  [[./6_puredata.jpg]]
+
+* Box
+
+  [[./7_box.png]]
+
+* Nodes.io
+
+  [[./8_nodesio.png]]
+
+[essas duas últimas estão na metade do caminho, são ao mesmo tempo textuais e visuais. só pra dizer que mesmo em forma tão distintas de falar pro computador o que queremos há gradações]
+
+* Programação via blocos
+
+  [[./9_blocos.png]]
+
+* Separar
+
+  - Lógica x Sintaxe
+
+* Sintaxe visual
+
+  [[./10_sintaxeVisual.png]]
+
+[Frizar que diversas propriedades visuais estão reforçando conceitos de forma resistente: eventos tem o topo arredondado, booleanos tem forma de diamante, variáveis arredondadas, cores, encaixe...]
+
+* Scratch
+
+  [[./11_scratch.jpg]]
+
+[aqui, frizar que no caso do Scratch, e de outras linguagens de blocos, elas já vem numa "IDE" e com um conjunto de assets]
+
+* Snap!
+
+  [[./12_snap.png]]
+
+* Pocket Code
+
+  [[./13_pocketCode.png]]
+
+* Blockly
+
+  [[./14_blockly.png]]
+
+* Blockly
+
+** Algumas vantagens
+
+  - +Linguagem+ Bilioteca!
+  - Versátil
+  - Usado em outros projetos
+
+* App Inventor
+
+  [[./15a_appInventor.png]]
+
+* App Inventor
+
+  [[./15b_appInventor.png]]
+
+* Bipes
+
+  [[./16_bipes.png]]
+
+* PARE!
+
+  [[./17_pare.jpg]]
+
+[Aqui eu pauso pra só voltar a falar de blockly depois]
+
+* Outras Vantagens Blockly
+
+  - Web!
+  - Desktop e Mobile (supostamente)
+  - Roda inteiramente no cliente
+  - "Exporta" o código textual
+  - Blockly Games!
+
+* Blockly Games
+
+  [[./18_blocklyGames.jpg]]
